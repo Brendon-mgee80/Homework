@@ -1,9 +1,9 @@
 const pizzaPlace = "Best Pizza Slice";
 const numberOfToppings = 12;
 
-console.log(`"Pizza Place: ${pizzaPlace}, Type: ${typeof pizzaPlace}"`);
+console.log(`Pizza Place: ${pizzaPlace},  ${typeof pizzaPlace}`);
 console.log(
-  `Number of Toppings: ${numberOfToppings}, Type: ${typeof numberOfToppings}`
+  `Number of Toppings: ${numberOfToppings}, ${typeof numberOfToppings}`
 );
 
 console.log(
