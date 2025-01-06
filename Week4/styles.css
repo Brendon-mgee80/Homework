@@ -1,0 +1,19 @@
+li:hover {
+  background-color: pink;
+  color: white;
+  cursor: pointer;
+}
+
+/* Styles for links */
+a {
+  color: rgb(203, 64, 224);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.welcome {
+  color: rgb(43, 116, 226)
+}
